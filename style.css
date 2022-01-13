@@ -263,4 +263,7 @@ section h1 {
     width: 90%;
     margin: 0 auto;
   }
+  section{
+    padding :1em;
+  }
 }
